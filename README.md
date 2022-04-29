@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**JFOZ1010/JFOZ1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Everything that makes up Juan Felipe in Software: 
 
 - 🔭 I’m a very curious boy, a lover of knowledge, of learning new things that contribute to my future...
@@ -10,4 +7,4 @@ Everything that makes up Juan Felipe in Software:
 - 📫 How to reach me: ...
 
 - ⚡ Fun fact: ...
--->
+
