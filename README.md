@@ -1,9 +1,5 @@
 ## Hi there 👋 
 
-\begin{center}
-### Hi there 
-\end{center}
-
 ### Everything that makes up Juan Felipe in Software 😎 : 
 
   
