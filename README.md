@@ -1,4 +1,4 @@
-<center> ## Hi there 👋 </center>
+## <center> Hi there </center> 👋 
 
 ### Everything that makes up Juan Felipe in Software 😎 : 
 
