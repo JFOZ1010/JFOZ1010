@@ -1,8 +1,8 @@
 ## Hi there 👋 
 
- <h2 align="center">## Everything that makes up Juan Felipe in Software 😎 :</h2> 
+ <h2 align="center"> Everything that makes up Juan Felipe in Software 😎 :</h2> 
 
-![JFOZ1010's GitHub stats](https://github-readme-stats.vercel.app/api?username=JFOZ1010&theme=codeSTACKr&show_icons=true)
+<div align="center"> ![JFOZ1010's GitHub stats](https://github-readme-stats.vercel.app/api?username=JFOZ1010&theme=codeSTACKr&show_icons=true) </div>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFOZ1010&layout=compact)](https://github.com/JFOZ1010/github-readme-stats)
   
