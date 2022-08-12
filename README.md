@@ -1,8 +1,6 @@
 ## Hi there 👋 
 
-<p align="center">
- <h2 align="center">Everything that makes up Juan Felipe in Software 😎 :</h2> 
-</p>
+ <h2 align="center">## Everything that makes up Juan Felipe in Software 😎 :</h2> 
 
 ![JFOZ1010's GitHub stats](https://github-readme-stats.vercel.app/api?username=JFOZ1010&theme=codeSTACKr&show_icons=true)
   
