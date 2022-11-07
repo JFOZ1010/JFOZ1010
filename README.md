@@ -12,7 +12,9 @@
 
 <h3 align="center">Cloud Computing</h3>
 <div align="center">
-<img alt="Google cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
+<a href="https://www.cloudskillsboost.google/public_profiles/ac99ef25-45b5-4a7c-b794-5de90b551991">
+ <img alt="Google cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
+</a>
 </div>
 
 
