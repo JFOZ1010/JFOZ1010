@@ -6,6 +6,10 @@
  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=JFOZ1010&theme=codeSTACKr&show_icons=true"/>
  </div>
  
+ &nbsp;<div align="center">
+ [![Spotify](https://spotify-readme-jfoz1010.vercel.app/api/spotify)](https://open.spotify.com/user/chosmanosorio)
+ </div>
+ 
  <div align="center">
  <img width="43%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFOZ1010&layout=compact"/>
  </div>
