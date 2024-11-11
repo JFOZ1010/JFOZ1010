@@ -55,21 +55,15 @@
 </div>
 
 <!-- Social Media -->
-<h3 style="font-family: 'JetBrains Mono', monospace; color: black;">Connect with Me 🌐</h3>
-<p style="text-align: left;">
-  <a href="https://www.linkedin.com/in/juanfelipeoz/" target="_blank" style="text-decoration: none;">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/PwnedRar_" target="_blank" style="text-decoration: none;">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://juanfelipeoz.gitbook.io/notes/" target="_blank" style="text-decoration: none;">
-    <img alt="GitBook" src="https://img.shields.io/badge/GitBook-%231e1e1e.svg?style=for-the-badge&logo=gitbook&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@juanfelipeoz.rar" target="_blank" style="text-decoration: none;">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+<h3>Connect with Me 🌍</h3>
+<p class="social-links">
+  <a href="https://www.linkedin.com/in/juanfelipeoz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%231e1e1e.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/pwnedrar_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231e1e1e.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://juanfelipeoz.gitbook.io/notes" target="_blank"><img alt="GitBook" src="https://img.shields.io/badge/GitBook-%231e1e1e.svg?style=for-the-badge&logo=gitbook&logoColor=white" /></a>
+  <a href="https://medium.com/@juanfelipeoz.rar" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%231e1e1e.svg?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
+
+
 
 <!-- Stats Cards -->
 <div style="display: flex; flex-direction: column; gap: 10px;">
