@@ -9,7 +9,7 @@
 </h1>
 
 <!-- Animated Text -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=21&pause=1000&color=5F4B8B&vCenter=true&width=1200&height=48&separator=%3C&lines=Web+Hacking%2C+Shoshin+Learning%2C+Programming+and+Bug+Bounties+;)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=24&pause=1000&color=5F4B8B&vCenter=true&width=1200&height=55&separator=%3C&lines=Web+Hacking%2C+Shoshin+Learning%2C+Programming+and+Bug+Bounties+;)" alt="Typing SVG" /></a>
 
 <!-- Presentation -->
 <div style="text-align: left; font-family: 'JetBrains Mono', monospace; color: black;">
