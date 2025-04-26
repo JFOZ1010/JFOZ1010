@@ -66,7 +66,7 @@
 <!-- Stats Cards -->
 <div style="display: flex; flex-direction: column; gap: 10px;">
   <div style="display: flex; gap: 10px; align-items: center;">
-    <img src="https://img.shields.io/badge/Followers-19-%231DA1F2" alt="Followers" />
+    <img src="https://img.shields.io/badge/Followers-31-%231DA1F2" alt="Followers" />
     <span>Followers</span>
   </div>
   <div style="display: flex; gap: 10px; align-items: center;">
